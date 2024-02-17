@@ -13,7 +13,7 @@ You can read our preprint [here](https://github.com/maria-antoniak/storyseeker/b
 
 <br><br>
 
-## The 🔭StorySeeker Dataset and Codebook
+## 🔭StorySeeker Dataset
 
 This dataset includes 502 texts annotated with story- and event-spans.
 
@@ -23,12 +23,15 @@ We sampled Reddit posts and comments from the [Webis-TLDR-17](https://huggingfac
 
 We assign each of the top 500 subreddits in the dataset to a thematic category. These 33 categories can be found [here](https://github.com/storyseeker/blob/main/subreddit_categories.csv).
 
-Our full codebook can be found [here](https://github.com/maria-antoniak/storyseeker/blob/main/codebook.md).
+<br><br>
 
+## 🔭StorySeeker Codebook
+
+Our full codebook can be found [here](https://github.com/maria-antoniak/storyseeker/blob/main/codebook.md).
 
 <br><br>
 
-## Models
+## ## 🔭StorySeeker Models
 
 Models coming soon to Hugging Face...
 
