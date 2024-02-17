@@ -2,12 +2,16 @@
 
 This repository contains data, a codebook, and other resources for the detection of storytelling in online communities.
 
+<br><br>
+
 ## Preprint
 
 **Where do people tell stories online? Story Detection Across Online Communities**    
 Maria Antoniak, Joel, Mire, Maarten Sap, Elliott Ash, Andrew Piper (2023)   
 
 You can read our preprint [here](https://github.com/maria-antoniak/stories-online-communities/blob/main/2023_preprint_where_stories.pdf).
+
+<br><br>
 
 ## The 🔭StorySeeker Dataset and Codebook
 
