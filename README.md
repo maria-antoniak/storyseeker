@@ -31,7 +31,7 @@ Our full codebook can be found [here](https://github.com/maria-antoniak/storysee
 
 <br><br>
 
-## ## 🔭StorySeeker Models
+## 🔭StorySeeker Models
 
 Models coming soon to Hugging Face...
 
