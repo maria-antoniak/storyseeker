@@ -21,7 +21,7 @@ Our full codebook can be found [here](https://github.com/maria-antoniak/stories-
 
 This dataset annotates Reddit posts and comments from the [Webis-TLDR-17](https://huggingface.co/datasets/webis/tldr-17) dataset.
 
-We hand-code each of the top 500 subreddits in the dataset into sets of thematic categories. These categories can be found [here](https://github.com/maria-antoniak/stories-online-communities/blob/main/subreddit_categories.csv).
+We assign each of the top 500 subreddits in the dataset to a thematic category. These 33 categories can be found [here](https://github.com/maria-antoniak/stories-online-communities/blob/main/subreddit_categories.csv).
 
 
 <br><br>
