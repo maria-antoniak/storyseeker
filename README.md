@@ -11,6 +11,15 @@ If you use our data, codebook, or models, please cite the following preprint.
 [Where do people tell stories online? Story Detection Across Online Communities](https://github.com/maria-antoniak/storyseeker/blob/main/2024_where_are_stories_preprint.pdf)  
 Maria Antoniak, Joel Mire, Maarten Sap, Elliott Ash, Andrew Piper  
 
+<br>
+
+## Quick start with Colab
+
+You can view a demonstration of how to load our annotations, fetch the texts, load our fine-tuned model from Hugging Face, and run predictions. If you use the Colab link, you don't need to download anything or set up anything on your local machine; everything will run in your internet browser.
+
+Colab: [link](https://colab.research.google.com/drive/11WJx97FbQELMmQSXbayeJ-gUJyYjCyAv?usp=sharing)
+
+Github: [link](https://github.com/maria-antoniak/storyseeker/blob/main/storyseeker_demo.ipynb)
 
 <br>
 
@@ -36,5 +45,5 @@ Our definition of storytelling and our full codebook can be found [here](https:/
 
 The document classification model is available [here](https://huggingface.co/mariaantoniak/storyseeker) and can be accessed via Hugging Face.
 
-Example code coming soon...
+
 
