@@ -2,7 +2,7 @@
 
 This repository contains data, a codebook, and other resources for the detection of storytelling in online communities.
 
-<br><br>
+<br>
 
 ## Preprint
 
