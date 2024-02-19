@@ -9,7 +9,7 @@ This repository contains data, a codebook, and other resources for the detection
 **Where do people tell stories online? Story Detection Across Online Communities**    
 Maria Antoniak, Joel, Mire, Maarten Sap, Elliott Ash, Andrew Piper (2023)   
 
-You can read our preprint [here](https://github.com/maria-antoniak/storyseeker/blob/main/2023_preprint_where_stories.pdf).
+You can read our preprint [here](https://github.com/maria-antoniak/storyseeker/blob/main/2024_where_are_stories_preprint.pdf).
 
 <br><br>
 
@@ -43,6 +43,6 @@ Example code coming soon...
 
 If you use our data, codebook, or models, please cite the following preprint.
 
-[Where do people tell stories online? Story Detection Across Online Communities]()  
+[Where do people tell stories online? Story Detection Across Online Communities](https://github.com/maria-antoniak/storyseeker/blob/main/2024_where_are_stories_preprint.pdf)  
 Maria Antoniak, Joel Mire, Maarten Sap, Elliott Ash, Andrew Piper  
 
