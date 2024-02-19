@@ -27,7 +27,7 @@ We assign each of the top 500 subreddits in the dataset to a thematic category. 
 
 ## 🔭StorySeeker Codebook
 
-Our full codebook can be found [here](https://github.com/maria-antoniak/storyseeker/blob/main/codebook.md).
+Our definition of storytelling and our full codebook can be found [here](https://github.com/maria-antoniak/storyseeker/blob/main/codebook.md).
 
 <br><br>
 
@@ -36,3 +36,13 @@ Our full codebook can be found [here](https://github.com/maria-antoniak/storysee
 The document classification model is available [here](https://huggingface.co/mariaantoniak/storyseeker) and can be accessed via Hugging Face.
 
 Example code coming soon...
+
+<br><br>
+
+## Citation
+
+If you use our data, codebook, or models, please cite the following preprint.
+
+[Where do people tell stories online? Story Detection Across Online Communities]()  
+Maria Antoniak, Joel Mire, Maarten Sap, Elliott Ash, Andrew Piper  
+
