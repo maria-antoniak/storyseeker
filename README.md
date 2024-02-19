@@ -45,5 +45,10 @@ Our definition of storytelling and our full codebook can be found [here](https:/
 
 The document classification model is available [here](https://huggingface.co/mariaantoniak/storyseeker) and can be accessed via Hugging Face.
 
+<br>
+
+## Questions
+
+Please open an issue or contact Maria Antoniak with any questions.
 
 
