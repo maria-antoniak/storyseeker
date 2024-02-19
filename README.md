@@ -33,6 +33,6 @@ Our full codebook can be found [here](https://github.com/maria-antoniak/storysee
 
 ## 🔭StorySeeker Models
 
-Models coming soon to Hugging Face...
+The document classification model is available [here](https://huggingface.co/mariaantoniak/storyseeker) and can be accessed via Hugging Face.
 
 Example code coming soon...
