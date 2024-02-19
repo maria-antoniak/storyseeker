@@ -13,7 +13,7 @@ Maria Antoniak, Joel Mire, Maarten Sap, Elliott Ash, Andrew Piper
 
 <br>
 
-## Quick start with Colab
+## Quick Start with Colab
 
 You can view a demonstration of how to load our annotations, fetch the texts, load our fine-tuned model from Hugging Face, and run predictions. If you use the Colab link, you don't need to download anything or set up anything on your local machine; everything will run in your internet browser.
 
