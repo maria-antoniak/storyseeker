@@ -1,4 +1,4 @@
-id,type,gold_intersection,gold_union,gold_consensus,maria_span,joel_span,split
+id,type,gold_intersection,gold_union,gold_consensus,annotator1_span,annotator2_span,split
 t3_mfhym,post,0,0,0,0,0,train
 ccznw3u,comment,0,0,0,0,0,train
 t3_18orht,post,1,1,1,1,1,train
