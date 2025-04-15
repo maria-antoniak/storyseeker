@@ -6,10 +6,11 @@ This repository contains data, a codebook, and other resources for the detection
 
 ## Preprint
 
-If you use our data, codebook, or models, please cite the following preprint.
+If you use our data, codebook, or models, please cite the following paper.
 
-[Where do people tell stories online? Story Detection Across Online Communities](https://github.com/maria-antoniak/storyseeker/blob/main/2024_where_are_stories_preprint.pdf)  
-Maria Antoniak, Joel Mire, Maarten Sap, Elliott Ash, Andrew Piper  
+[Where do people tell stories online? Story Detection Across Online Communities](https://aclanthology.org/2024.acl-long.383/)   
+Maria Antoniak, Joel Mire, Maarten Sap, Elliott Ash, Andrew Piper   
+ACL 2024  
 
 <br>
 
