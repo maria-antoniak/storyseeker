@@ -4,7 +4,7 @@ This repository contains data, a codebook, and other resources for the detection
 
 <br>
 
-## Preprint
+## ACL Paper
 
 If you use our data, codebook, or models, please cite the following paper.
 
