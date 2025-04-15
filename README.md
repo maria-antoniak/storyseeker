@@ -20,7 +20,7 @@ You can view a demonstration of how to load our annotations, fetch the texts, lo
 
 Colab: [link]([https://colab.research.google.com/drive/1q2ZGMV8osm7BeG-kjHmHGOjKv6B_7U8t?usp=sharing)
 
-Github: [link](https://github.com/maria-antoniak/storyseeker/blob/main/storyseeker_demo.ipynb)
+Github: [link](https://github.com/maria-antoniak/storyseeker/blob/main/2025_storyseeker_demo.ipynb)
 
 <br>
 
