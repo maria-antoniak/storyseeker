@@ -18,7 +18,7 @@ ACL 2024
 
 You can view a demonstration of how to load our annotations, fetch the texts, load our fine-tuned model from Hugging Face, and run predictions. If you use the Colab link, you don't need to download anything or set up anything on your local machine; everything will run in your internet browser.
 
-Colab: [link](https://colab.research.google.com/drive/11WJx97FbQELMmQSXbayeJ-gUJyYjCyAv?usp=sharing)
+Colab: [link]([https://colab.research.google.com/drive/1q2ZGMV8osm7BeG-kjHmHGOjKv6B_7U8t?usp=sharing)
 
 Github: [link](https://github.com/maria-antoniak/storyseeker/blob/main/storyseeker_demo.ipynb)
 
